@@ -26,12 +26,11 @@ A smart study companion app that helps students stay organized, motivated, and p
 | Screenshot                                       | Screenshot                                       | Screenshot                                       |
 | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | ![Screenshot 1](Screenshots/1.png)  | ![Screenshot 2](Screenshots/2.png)  | ![Screenshot 3](Screenshots/3.png)  |
-| ![Screenshot 4](Screenshots/4.png)  | ![Screenshot 5](Screenshots/5.png)  | ![Screenshot 6](Screenshots/6.png)  |
-| ![Screenshot 7](Screenshots/7.png)  | ![Screenshot 8](Screenshots/8.png)  | ![Screenshot 9](Screenshots/9.png)  |
-| ![Screenshot 10](Screenshots/10.png) | ![Screenshot 11](Screenshots/11.png) | ![Screenshot 12](Screenshots/12.png) |
-| ![Screenshot 13](Screenshots/13.png) | ![Screenshot 14](Screenshots/14.png) | ![Screenshot 15](Screenshots/15.png) |
-| ![Screenshot 16](Screenshots/16.png) | ![Screenshot 17](Screenshots/17.png) | ![Screenshot 18](Screenshots/18.png) |
-| ![Screenshot 19](Screenshots/19.png) |
+| ![Screenshot 4](Screenshots/4.png)  | ![Screenshot 5](Screenshots/5.png)  | ![Screenshot 7](Screenshots/7.png)  |
+| ![Screenshot 8](Screenshots/8.png)  | ![Screenshot 9](Screenshots/9.png)  | ![Screenshot 10](Screenshots/10.png) |
+| ![Screenshot 12](Screenshots/12.png) | ![Screenshot 13](Screenshots/13.png) | ![Screenshot 14](Screenshots/14.png) |
+| ![Screenshot 15](Screenshots/15.png) | ![Screenshot 16](Screenshots/16.png) | ![Screenshot 17](Screenshots/17.png) |
+| ![Screenshot 18](Screenshots/18.png) | ![Screenshot 19](Screenshots/19.png) |
 
 ## Installation
 
