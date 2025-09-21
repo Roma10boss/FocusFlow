@@ -108,6 +108,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
     Romario Gustave - Romagustave10@gmail.com
-
-## Acknowledgments
-[Credits and acknowledgments]
