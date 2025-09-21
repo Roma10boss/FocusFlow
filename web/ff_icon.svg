@@ -1,0 +1,55 @@
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Premium gradient background -->
+    <radialGradient id="bgGradient" cx="30%" cy="30%" r="80%">
+      <stop offset="0%" style="stop-color:#667EEA;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#7C4DFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764BA2;stop-opacity:1" />
+    </radialGradient>
+
+    <!-- Text shadow filter -->
+    <filter id="textShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+
+    <!-- Inner glow filter -->
+    <filter id="innerGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background with modern gradient -->
+  <circle cx="96" cy="96" r="96" fill="url(#bgGradient)"/>
+
+  <!-- Subtle ring highlight -->
+  <circle cx="96" cy="96" r="88" fill="none" stroke="#E0E7FF" stroke-width="2" opacity="0.3"/>
+
+  <!-- Centered FF with professional typography -->
+  <g transform="translate(96, 96)" filter="url(#textShadow)">
+
+    <!-- First F - optimally spaced and sized -->
+    <path d="M-28,-32 L-8,-32 L-8,-20 L-20,-20 L-20,-10 L-12,-10 L-12,2 L-20,2 L-20,32 L-28,32 Z"
+          fill="#FFFFFF"/>
+
+    <!-- Second F - perfectly matched -->
+    <path d="M8,-32 L28,-32 L28,-20 L16,-20 L16,-10 L24,-10 L24,2 L16,2 L16,32 L8,32 Z"
+          fill="#FFFFFF"/>
+  </g>
+
+  <!-- Refined accent highlights -->
+  <g transform="translate(96, 96)" opacity="0.8">
+    <path d="M-28,-32 L-8,-32 L-8,-24 L-28,-24 Z" fill="#E0E7FF"/>
+    <path d="M8,-32 L28,-32 L28,-24 L8,-24 Z" fill="#E0E7FF"/>
+  </g>
+
+  <!-- Subtle inner highlight for premium feel -->
+  <g transform="translate(96, 96)" opacity="0.4" filter="url(#innerGlow)">
+    <path d="M-26,-30 L-10,-30 L-10,-26 L-26,-26 Z" fill="#C7D2FE"/>
+    <path d="M10,-30 L26,-30 L26,-26 L10,-26 Z" fill="#C7D2FE"/>
+  </g>
+
+</svg>

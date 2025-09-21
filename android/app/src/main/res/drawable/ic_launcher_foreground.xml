@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+  <!-- Centered FF with premium design -->
+  <group android:translateX="54" android:translateY="54">
+
+    <!-- Elegant shadow with blur effect -->
+    <group android:translateX="0" android:translateY="3" android:alpha="0.3">
+      <path android:fillColor="#000000"
+            android:pathData="M-18,-22 L-2,-22 L-2,-12 L-12,-12 L-12,-6 L-4,-6 L-4,0 L-12,0 L-12,22 L-18,22 Z"/>
+      <path android:fillColor="#000000"
+            android:pathData="M6,-22 L22,-22 L22,-12 L12,-12 L12,-6 L20,-6 L20,0 L12,0 L12,22 L6,22 Z"/>
+    </group>
+
+    <!-- Main letterforms with refined proportions -->
+    <group>
+      <!-- First F - perfectly proportioned -->
+      <path android:fillColor="#FFFFFF"
+            android:pathData="M-20,-25 L-4,-25 L-4,-15 L-14,-15 L-14,-8 L-6,-8 L-6,-2 L-14,-2 L-14,25 L-20,25 Z"/>
+
+      <!-- Second F - matching spacing -->
+      <path android:fillColor="#FFFFFF"
+            android:pathData="M4,-25 L20,-25 L20,-15 L10,-15 L10,-8 L18,-8 L18,-2 L10,-2 L10,25 L4,25 Z"/>
+    </group>
+
+    <!-- Sophisticated accent highlights -->
+    <group android:alpha="0.9">
+      <path android:fillColor="#E0E7FF"
+            android:pathData="M-20,-25 L-4,-25 L-4,-19 L-20,-19 Z"/>
+      <path android:fillColor="#E0E7FF"
+            android:pathData="M4,-25 L20,-25 L20,-19 L4,-19 Z"/>
+    </group>
+
+    <!-- Premium inner glow effect -->
+    <group android:alpha="0.4">
+      <path android:fillColor="#C7D2FE"
+            android:pathData="M-19,-24 L-5,-24 L-5,-20 L-19,-20 Z"/>
+      <path android:fillColor="#C7D2FE"
+            android:pathData="M5,-24 L19,-24 L19,-20 L5,-20 Z"/>
+    </group>
+
+  </group>
+</vector>
